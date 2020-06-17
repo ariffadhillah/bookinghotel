@@ -39,7 +39,7 @@ export default function Hero(props) {
               className="btn px-5"
               hasShadow
               isPrimary
-              // onClick={showMostPicked}
+              onClick={showMostPicked}
             >
               Show Me Now
             </Button>
