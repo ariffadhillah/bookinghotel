@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "/bookinghotel/static/css/main.f5179d2c.chunk.css",
+    "main.js": "/bookinghotel/static/js/main.c0cfe965.chunk.js",
+    "main.js.map": "/bookinghotel/static/js/main.c0cfe965.chunk.js.map",
+    "runtime-main.js": "/bookinghotel/static/js/runtime-main.bd24062f.js",
+    "runtime-main.js.map": "/bookinghotel/static/js/runtime-main.bd24062f.js.map",
+    "static/js/2.e73e3a24.chunk.js": "/bookinghotel/static/js/2.e73e3a24.chunk.js",
+    "static/js/2.e73e3a24.chunk.js.map": "/bookinghotel/static/js/2.e73e3a24.chunk.js.map",
+    "index.html": "/bookinghotel/index.html",
+    "precache-manifest.58472a3c599d3ee7f5674dc0fc9401d5.js": "/bookinghotel/precache-manifest.58472a3c599d3ee7f5674dc0fc9401d5.js",
+    "service-worker.js": "/bookinghotel/service-worker.js",
+    "static/css/main.f5179d2c.chunk.css.map": "/bookinghotel/static/css/main.f5179d2c.chunk.css.map",
+    "static/js/2.e73e3a24.chunk.js.LICENSE.txt": "/bookinghotel/static/js/2.e73e3a24.chunk.js.LICENSE.txt",
+    "static/media/icon-cities.svg": "/bookinghotel/static/media/icon-cities.bc95ea70.svg",
+    "static/media/icon-traveler.svg": "/bookinghotel/static/media/icon-traveler.109e18e8.svg",
+    "static/media/icon-treasure.svg": "/bookinghotel/static/media/icon-treasure.bb259d86.svg",
+    "static/media/img-hero-frame.jpg": "/bookinghotel/static/media/img-hero-frame.19fa22a6.jpg",
+    "static/media/img-hero.jpg": "/bookinghotel/static/media/img-hero.97bfd6d9.jpg",
+    "static/media/index.scss": "/bookinghotel/static/media/star.11a62c71.svg",
+    "static/media/testimonial-landingpages-frame.jpg": "/bookinghotel/static/media/testimonial-landingpages-frame.1632c742.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd24062f.js",
+    "static/js/2.e73e3a24.chunk.js",
+    "static/css/main.f5179d2c.chunk.css",
+    "static/js/main.c0cfe965.chunk.js"
+  ]
+}
